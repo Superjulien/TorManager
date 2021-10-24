@@ -2,10 +2,6 @@
 
 A simple tools for start, stop tor or generate new ip.
 
-# Version
-
-Version 0.01.
-
 ## Documentation
 
 - [Tor](https://support.torproject.org/)
