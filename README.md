@@ -32,6 +32,9 @@ Uncomment :
 ```
 # dynamic_chain
 ```
+```
+# quiet_mode
+```
 Comment :
 ```
 strict_chain
